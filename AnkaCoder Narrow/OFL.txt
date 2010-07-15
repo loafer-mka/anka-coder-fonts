@@ -1,5 +1,5 @@
 Copyright (c) 2010, Andrey Makarov (makarov@bmstu.ru, mka-at-mailru@mail.ru),
-with Reserved Font Names Anka/Coder, Anka/Coder Condensed and Anka/Coder Narrow.
+with Reserved Font Name Anka/Coder Narrow.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
