@@ -1,4 +1,4 @@
-Copyright (c) 2010, Andrey Makarov (makarov@bmstu.ru, mka-at-mailru@mail.ru),
+Copyright (c) 2010, Andrey Makarov (mka-at-mailru@mail.ru),
 with Reserved Font Name Anka/Coder.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
